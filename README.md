@@ -16,7 +16,7 @@ não é ambígua. É LALR mas não SLR. (Veja os slides do curso sobre parsing a
 
 ## Objetivo
 
-Mostre na prática que a tabela de parsing SLR é ambigua e que a LALR não é utilizando o gerador de analisdor sintático PLY, 
+Mostre na prática que a tabela de parsing SLR é ambigua e que a LALR não é utilizando o gerador de analisador sintático PLY, 
 uma implementação em Python da ferramenta Yacc. 
 
 ## Implementação
